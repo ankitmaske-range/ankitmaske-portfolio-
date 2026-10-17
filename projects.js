@@ -8,7 +8,7 @@
   - You can leave videoId blank until you add your real YouTube link.
 */
 window.PORTFOLIO_CONFIG = {
-  name: "RiteshX",
+  name: "Ankit Maske",
   email: "hello@example.com", // Replace with your email
   socials: {
     youtube: "",   // Add your channel URL
