@@ -53,7 +53,7 @@ You can change each project's title, category, description, role, tools and year
 
 At the top of `projects.js`, replace:
 ```js
-email: "hello@example.com"
+email: "ankitmaske218@gmial.com"
 ```
 with your real contact email. The YouTube, Instagram and LinkedIn values are prepared for later if you want to add social icons/links.
 
